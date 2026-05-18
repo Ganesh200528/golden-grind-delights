@@ -281,7 +281,7 @@ function Index() {
             South Bazar, beside Sunitha Hotel, Near Pothu Raju Mitta,<br />Kandukur, Andhra Pradesh, India
           </p>
           <p className="mt-3 text-sm">+91 89858 78241 · leelathatavarthi@gmail.com</p>
-          <p className="mt-3 text-sm text-[var(--gold)]/80">Open Daily · 6:00 AM — 8:30 PM</p>
+          <p className="mt-3 text-sm text-[var(--gold)]/80">Open Daily · 8:00 AM — 8:30 PM</p>
           <p className="mt-10 text-xs tracking-[0.2em] uppercase text-[var(--cream)]/40">
             © {new Date().getFullYear()} Leela Grinding · Made with care
           </p>
