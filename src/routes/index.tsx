@@ -30,7 +30,6 @@ const services = [
   { icon: "🫓", name: "Dosa Pindi", desc: "Crisp, golden dosas every morning — freshly stone-ground batter.", tag: "Daily Fresh" },
   { icon: "🥣", name: "Idly Pindi", desc: "Soft, fluffy idly batter perfectly fermented for traditional taste.", tag: "Authentic" },
   { icon: "🍩", name: "Vada Pindi", desc: "Smooth urad dal batter for crispy, restaurant-style vadas.", tag: "Crispy" },
-  { icon: "🌾", name: "Wet Grinding", desc: "Cold stone wet grinding that preserves nutrition and aroma.", tag: "Stone Ground" },
   { icon: "🌿", name: "Chutney Grinding", desc: "Quick chutney grinding for coconut, peanut, tomato and more.", tag: "Quick" },
   { icon: "⚡", name: "Quick Service", desc: "Fast turnaround so you never wait — bring it in, take it home.", tag: "Fast" },
 ];
@@ -202,7 +201,7 @@ function Index() {
             Working Hours
           </div>
           <h2 className="mt-6 font-display text-5xl md:text-7xl font-semibold text-[var(--gold)] leading-none">
-            6:00 AM <span className="text-[var(--cream)]/30 mx-3">—</span> 8:30 PM
+            8:00 AM <span className="text-[var(--cream)]/30 mx-3">—</span> 8:30 PM
           </h2>
           <div className="mt-10 inline-flex items-center gap-3 px-5 py-2.5 rounded-full border border-[var(--gold)]/40">
             <span className="w-2 h-2 rounded-full bg-[var(--gold)] animate-pulse" />
@@ -282,7 +281,7 @@ function Index() {
             South Bazar, beside Sunitha Hotel, Near Pothu Raju Mitta,<br />Kandukur, Andhra Pradesh, India
           </p>
           <p className="mt-3 text-sm">+91 89858 78241 · leelathatavarthi@gmail.com</p>
-          <p className="mt-3 text-sm text-[var(--gold)]/80">Open Daily · 6:00 AM — 8:30 PM</p>
+          <p className="mt-3 text-sm text-[var(--gold)]/80">Open Daily · 8:00 AM — 8:30 PM</p>
           <p className="mt-10 text-xs tracking-[0.2em] uppercase text-[var(--cream)]/40">
             © {new Date().getFullYear()} Leela Grinding · Made with care
           </p>
