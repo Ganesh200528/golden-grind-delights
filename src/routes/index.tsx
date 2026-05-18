@@ -30,7 +30,6 @@ const services = [
   { icon: "🫓", name: "Dosa Pindi", desc: "Crisp, golden dosas every morning — freshly stone-ground batter.", tag: "Daily Fresh" },
   { icon: "🥣", name: "Idly Pindi", desc: "Soft, fluffy idly batter perfectly fermented for traditional taste.", tag: "Authentic" },
   { icon: "🍩", name: "Vada Pindi", desc: "Smooth urad dal batter for crispy, restaurant-style vadas.", tag: "Crispy" },
-  { icon: "🌾", name: "Wet Grinding", desc: "Cold stone wet grinding that preserves nutrition and aroma.", tag: "Stone Ground" },
   { icon: "🌿", name: "Chutney Grinding", desc: "Quick chutney grinding for coconut, peanut, tomato and more.", tag: "Quick" },
   { icon: "⚡", name: "Quick Service", desc: "Fast turnaround so you never wait — bring it in, take it home.", tag: "Fast" },
 ];
