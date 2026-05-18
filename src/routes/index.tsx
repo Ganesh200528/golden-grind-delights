@@ -201,7 +201,7 @@ function Index() {
             Working Hours
           </div>
           <h2 className="mt-6 font-display text-5xl md:text-7xl font-semibold text-[var(--gold)] leading-none">
-            6:00 AM <span className="text-[var(--cream)]/30 mx-3">—</span> 8:30 PM
+            8:00 AM <span className="text-[var(--cream)]/30 mx-3">—</span> 8:30 PM
           </h2>
           <div className="mt-10 inline-flex items-center gap-3 px-5 py-2.5 rounded-full border border-[var(--gold)]/40">
             <span className="w-2 h-2 rounded-full bg-[var(--gold)] animate-pulse" />
