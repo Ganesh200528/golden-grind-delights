@@ -352,7 +352,7 @@ function Index() {
                 <p className="mt-3 text-[var(--cream)]/70 text-sm leading-relaxed max-w-sm">{L.mapDesc}</p>
               </div>
               <a
-                href="https://www.google.com/maps/search/?api=1&query=Leela+Grinding+Machine+Shop+South+Bazar+Kandukur"
+                href="https://www.google.com/maps/place/sri+lakshmi+ganapathi+medical+shop/@15.2101878,79.9044001,17z/data=!3m1!4b1!4m6!3m5!1s0x3a4b13744b21008f:0xc445ec3b0a327a47!8m2!3d15.2101878!4d79.906975!16s%2Fg%2F11fmh7vfvm?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
                 target="_blank"
                 rel="noreferrer"
                 className="relative mt-6 self-start inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[var(--gold)] text-[var(--dark)] font-medium hover:-translate-y-0.5 hover:shadow-[var(--shadow-gold)] transition-all"
