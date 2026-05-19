@@ -10,6 +10,7 @@ export const Route = createFileRoute("/")({
       { name: "description", content: "Fresh, pure and hygienic daily grinding — dosa, idly, vada pindi, wet grinding and chutney. South Bazar, Kandukur, Andhra Pradesh." },
       { property: "og:title", content: "Leela Grinding Machine Shop" },
       { property: "og:description", content: "Fresh Grinding. Pure & Hygienic. Open every day in Kandukur, AP." },
+       name: "google-site-verification", content: "googlec45dd2209415f59e" },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
